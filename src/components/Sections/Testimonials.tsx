@@ -1,6 +1,6 @@
 import classNames from 'classnames';
-import {FC, memo, UIEventHandler, useCallback, useEffect, useMemo, useRef, useState} from 'react';
 import Image from 'next/image';
+import {FC, memo, UIEventHandler, useCallback, useEffect, useMemo, useRef, useState} from 'react';
 
 import {isApple, isMobile} from '../../config';
 import {SectionId, testimonial} from '../../data/data';
